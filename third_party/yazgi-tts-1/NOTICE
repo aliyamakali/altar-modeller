@@ -1,0 +1,14 @@
+yazgı-tts-1
+Copyright 2026 Erkam Kavak
+
+This model and its code are licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The model was trained with the following data and tools, credited under their licenses:
+
+- Alania Synthetic Speech TR (cloud0day3/alania-synthetic-speech-tr), CC BY 4.0
+- YODAS2 (espnet/yodas2), subset tr000, CC BY 3.0; each video by its uploader, listed in ATTRIBUTION.md
+- Common Voice 21.0 (Mozilla Foundation), CC0 1.0
+- MediaSpeech (OpenSLR 108, Kolobov et al.), CC BY 4.0
+- FLEURS (Google), CC BY 4.0
+- normalizer-tr, Apache-2.0 (text front end)
+- SpeechBrain spkrec-resnet-voxceleb, Apache-2.0 (speaker embeddings)
